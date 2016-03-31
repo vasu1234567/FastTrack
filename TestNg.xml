@@ -1,0 +1,12 @@
+
+<suite name="BasicTest">
+  <test name="SampleTest">
+    <classes>
+      <class name="com.testngtest.GoogleLinks"/>
+      <class name="com.testngtest.TestNgPrg"/>
+      <class name="com.testngtest.BeforeAfter"/>
+      <class name="com.testngtest.MultipleTestNg"/>
+    </classes>
+  </test> 
+</suite> 
+
